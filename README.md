@@ -7,8 +7,7 @@ I’m a **Computer Science student at Salisbury University (Class of 2025)** on 
 ### 💻 Current Projects
 
 * 🧩 **Firestore Admin Panel** – A dynamic Next.js 15 + Mantine UI + Firebase project for non-developers to manage Firestore databases through a modern, role-based admin panel.
-  [🔗 GitHub Repo](https://github.com/iandavis1504/firestore-admin-panel)
-
+ 
 * 🏭 **DES-BOMS (Delivered Engineering Solutions)** – Full-stack inventory and asset management system for a machine shop, built with Next.js, Prisma, PostgreSQL, and Docker on Ubuntu Server.
 
 ### ⚙️ Tech Stack
