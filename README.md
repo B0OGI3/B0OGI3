@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ian Davis
+## 👋 Hi, I’m Ian!
 
 I’m a **Computer Science student at Salisbury University (Class of 2025)** on the Software Engineering track, passionate about **building practical tools**, **full-stack apps**, and **solving real-world problems** through clean, modular code.
 
