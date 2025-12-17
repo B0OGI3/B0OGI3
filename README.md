@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ian!
 
-I’m a **Computer Science student at Salisbury University (Class of 2025)** on the Software Engineering track, passionate about **software engineering** and **solving real-world problems** through clean, modular code.
+I’m a **Computer Science graduate from Salisbury University (Class of 2025)** on the Software Engineering track, passionate about **software engineering** and **solving real-world problems** through clean, modular code.
 
 ---
 
