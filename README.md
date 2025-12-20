@@ -7,5 +7,5 @@ I’m a **Computer Science graduate from Salisbury University (Class of 2025)** 
 ### 📫 Connect With Me
 
 * **Email:** [iandavis1504@gmail.com](mailto:iandavis1504@gmail.com)
-* **LinkedIn:** [linkedin.com/in/iandavis1504](https://linkedin.com/in/iandavis15)
+* **LinkedIn:** [linkedin.com/in/iandavis15](https://linkedin.com/in/iandavis15)
 
