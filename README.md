@@ -8,4 +8,4 @@ I’m a **Computer Science graduate from Salisbury University (Class of 2025)** 
 
 * **Email:** [iandavis1504@gmail.com](mailto:iandavis1504@gmail.com)
 * **LinkedIn:** [linkedin.com/in/iandavis15](https://linkedin.com/in/iandavis15)
-* **Portfolio** [iandavis](https://iandavis.vercel.app)
+* **Portfolio:** [iandavis.dev](https://iandavis.vercel.app)
